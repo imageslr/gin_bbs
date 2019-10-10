@@ -85,6 +85,8 @@ DB:
 ```
 如果运行的是 debug 模式，数据库名应该为 `gin_bbs_debug`。
 
+运行 `make mock` 生成 mock 数据。
+
 ## 实现功能
 - [x] CSRF 验证
 - [x] flash 消息闪现
